@@ -39,9 +39,16 @@ function showResult(item) {
   termElement.textContent = item.term;
   definitionElement.textContent = item.definition;
   exampleElement.textContent = item.example;
-  avoidanceElement.textContent = item.avoidance;
+
+  if (item.avoidance) {
+    avoidanceElement.textContent = item.avoidance;
+    avoidanceElement.parentElement.style.display = 'block';
+  } else {
+    avoidanceElement.parentElement.style.display = 'none';
+  }
 
   resultDiv.style.display = 'block';
   suggestionsList.innerHTML = '';
   searchBar.value = '';
 }
+
