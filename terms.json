@@ -19,104 +19,129 @@
   },
     "social engineering": {
     "definition": "Manipulating people into divulging confidential information or performing actions that compromise security.",
-    "example": "An attacker calls pretending to be IT support, asking for your password to fix a fake issue."
+    "example": "An attacker calls pretending to be IT support, asking for your password to fix a fake issue.",
+      "avoidance": "Careful with who you trust, make sure to avoid risky calls."
   },
   "firewall": {
     "definition": "A network security system that monitors and controls incoming and outgoing network traffic.",
-    "example": "A firewall blocks unauthorized access to your computer while allowing legitimate traffic."
+    "example": "A firewall blocks unauthorized access to your computer while allowing legitimate traffic.",
+    "avoidance": "N/A"
   },
   "encryption": {
     "definition": "The process of converting data into a coded format to prevent unauthorized access.",
-    "example": "Messages sent over WhatsApp are encrypted to ensure only the sender and receiver can read them."
+    "example": "Messages sent over WhatsApp are encrypted to ensure only the sender and receiver can read them.",
+    "avoidance": "N/A"
   },
   "deepfake": {
     "definition": "A media technology that uses AI to create highly realistic fake videos or audio.",
     "example": "A fake video showing a politician saying something they never actually said.",
-    "how to avoid" : "Ask personal questions only the actual person would know."
+    "avoidance" : "Ask personal questions only the actual person would know.",
+    "avoidance": "N/A"
   },
   "adware": {
     "definition": "Software that automatically displays or downloads advertisements, often without the user's consent.",
-    "example": "A program that opens pop-up ads every time you open your browser."
+    "example": "A program that opens pop-up ads every time you open your browser.",
+    "avoidance": "N/A"
   },
   "backdoor": {
     "definition": "A method of bypassing normal authentication to access a system or network.",
-    "example": "An attacker installs a backdoor on your server to access it remotely whenever they want."
+    "example": "An attacker installs a backdoor on your server to access it remotely whenever they want.",
+    "avoidance": "N/A"
   },
   "catfishing": {
     "definition": "The act of creating a fake online identity to deceive others.",
-    "example": "Someone pretends to be a wealthy individual to scam victims out of money on dating apps."
+    "example": "Someone pretends to be a wealthy individual to scam victims out of money on dating apps.",
+    "avoidance": "N/A"
   },
   "cookie": {
     "definition": "A small piece of data stored on your computer by a website to track your online activities.",
-    "example": "A website uses cookies to remember your login information and preferences."
+    "example": "A website uses cookies to remember your login information and preferences.",
+    "avoidance": "N/A"
   },
   "cryptojacking": {
     "definition": "The unauthorized use of someone's computer to mine cryptocurrency.",
-    "example": "A malicious script runs in the background of your browser, using your computer's resources to mine Bitcoin."
+    "example": "A malicious script runs in the background of your browser, using your computer's resources to mine Bitcoin.",
+    "avoidance": "N/A"
   },
   "hacker": {
     "definition": "An individual skilled in using computers to gain unauthorized access to systems or networks.",
-    "example": "A hacker breaches a company's database to steal sensitive customer information."
+    "example": "A hacker breaches a company's database to steal sensitive customer information.",
+    "avoidance": "N/A"
   },
   "scamming": {
     "definition": "Fraudulent schemes designed to deceive individuals into giving away money or personal information.",
-    "example": "An email claims you've won a lottery and asks for your bank details to transfer the prize."
+    "example": "An email claims you've won a lottery and asks for your bank details to transfer the prize.",
+    "avoidance": "N/A"
   },
   "keylogger": {
     "definition": "A program that records every keystroke made on a computer to capture sensitive information.",
-    "example": "A keylogger could record your username and password as you type them."
+    "example": "A keylogger could record your username and password as you type them.",
+    "avoidance": "N/A"
   },
   "trojan horse": {
     "definition": "Malware disguised as legitimate software, used to gain access to systems.",
-    "example": "A user downloads what appears to be a free game, but it installs malware instead."
+    "example": "A user downloads what appears to be a free game, but it installs malware instead.",
+    "avoidance": "N/A"
   },
   "botnet": {
     "definition": "A network of compromised computers controlled by an attacker to perform tasks.",
-    "example": "Botnets are often used for large-scale DDoS attacks."
+    "example": "Botnets are often used for large-scale DDoS attacks.",
+    "avoidance": "N/A"
   },
   "DDoS": {
     "definition": "A Distributed Denial of Service attack floods a system with traffic, making it inaccessible.",
-    "example": "A website becomes unavailable after being targeted by a DDoS attack."
+    "example": "A website becomes unavailable after being targeted by a DDoS attack.",
+    "avoidance": "N/A"
   },
   "zero-day exploit": {
     "definition": "A vulnerability in software that is exploited before the developer can issue a fix.",
-    "example": "Hackers discover and use a zero-day exploit in a popular browser to access users' data."
+    "example": "Hackers discover and use a zero-day exploit in a popular browser to access users' data.",
+    "avoidance": "N/A"
   },
   "spyware": {
     "definition": "Software that secretly monitors and collects information about a user's activities.",
-    "example": "Spyware tracks a user's browsing habits and sends the data to advertisers."
+    "example": "Spyware tracks a user's browsing habits and sends the data to advertisers.",
+    "avoidance": "N/A"
   },
   "spam": {
     "definition": "Unsolicited and often irrelevant or inappropriate messages sent over the internet.",
-    "example": "Your inbox fills with spam emails promoting fake products or services."
+    "example": "Your inbox fills with spam emails promoting fake products or services.",
+    "avoidance": "N/A"
   },
   "vulnerability": {
     "definition": "A weakness in a system that can be exploited by an attacker.",
-    "example": "Outdated software often contains vulnerabilities that hackers can exploit."
+    "example": "Outdated software often contains vulnerabilities that hackers can exploit.",
+    "avoidance": "N/A"
   },
   "authentication": {
     "definition": "The process of verifying the identity of a user or system.",
-    "example": "Logging in with a username and password is a form of authentication."
+    "example": "Logging in with a username and password is a form of authentication.",
+    "avoidance": "N/A"
   },
   "rootkit": {
     "definition": "Malware designed to gain unauthorized root or administrative access to a system.",
-    "example": "A rootkit hides in the operating system to evade detection by antivirus software."
+    "example": "A rootkit hides in the operating system to evade detection by antivirus software.",
+    "avoidance": "N/A"
   },
   "packet sniffing": {
     "definition": "Intercepting and analyzing data packets sent over a network.",
-    "example": "Hackers use packet sniffing tools to capture sensitive information sent over unencrypted networks."
+    "example": "Hackers use packet sniffing tools to capture sensitive information sent over unencrypted networks.",
+    "avoidance": "N/A"
   },
   "VPN": {
     "definition": "A Virtual Private Network creates a secure connection over the internet.",
-    "example": "Using a VPN hides your IP address and encrypts your online activities."
+    "example": "Using a VPN hides your IP address and encrypts your online activities.",
+    "avoidance": "N/A"
   },
   "two-factor authentication": {
     "definition": "A security measure that requires two forms of identification to log in.",
-    "example": "Entering a password and a code sent to your phone is two-factor authentication."
+    "example": "Entering a password and a code sent to your phone is two-factor authentication.",
+    "avoidance": "N/A"
   },
   "worm": {
     "definition": "A self-replicating malware that spreads across computers without user intervention.",
-    "example": "A worm infects a company's network and slows down all connected systems."
+    "example": "A worm infects a company's network and slows down all connected systems.",
+    "avoidance": "N/A"
   },
   "brute force attack": {
     "definition": "A trial-and-error method used to decode encrypted data such as passwords or PINs by trying all possible combinations.",
