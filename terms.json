@@ -242,4 +242,4 @@
     "definition": "A security practice of running code in an isolated environment to prevent it from affecting other systems.",
     "example": "A suspicious file is opened in a sandbox to check for malware.",
     "avoidance": "Use sandboxing tools to test untrusted applications or files."
-]
+  }
