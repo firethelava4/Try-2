@@ -39,13 +39,7 @@ function showResult(item) {
   termElement.textContent = item.term;
   definitionElement.textContent = item.definition;
   exampleElement.textContent = item.example;
-
-  if (item.avoidance) {
-    avoidanceElement.textContent = item.avoidance;
-    avoidanceElement.parentElement.style.display = 'block';
-  } else {
-    avoidanceElement.parentElement.style.display = 'none';
-  }
+  avoidanceElement.textContent = item.avoidance;
 
   resultDiv.style.display = 'block';
   suggestionsList.innerHTML = '';
