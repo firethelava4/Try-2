@@ -243,3 +243,4 @@
     "example": "A suspicious file is opened in a sandbox to check for malware.",
     "avoidance": "Use sandboxing tools to test untrusted applications or files."
   }
+]
